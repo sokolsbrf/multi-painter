@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiPainter</string>
+    <string name="description_red">Красный цвет</string>
+    <string name="description_green">Зелёный цвет</string>
+    <string name="description_blue">Синий цвет</string>
+    <string name="description_tool">Переключить инструмент</string>
+</resources>

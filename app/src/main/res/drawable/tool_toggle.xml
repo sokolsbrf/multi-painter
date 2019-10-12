@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+
+            <solid android:color="@color/colorPrimaryDark" />
+            <corners android:radius="4dp" />
+            <size android:height="48dp" android:width="48dp" />
+
+        </shape>
+    </item>
+
+    <item>
+        <selector>
+            <item android:state_selected="true" android:drawable="@drawable/ic_gesture_24dp" />
+            <item android:drawable="@drawable/ic_brush_24dp" />
+        </selector>
+    </item>
+</layer-list>
